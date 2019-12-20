@@ -1,6 +1,6 @@
 html {
 	scroll-behavior: smooth;
-	
+
 }
 
 body {
@@ -28,6 +28,8 @@ body {
 	position: fixed;
 	right: 0;
 	top: 200px;
+	align-items: right;
+	text-align: right;
 }
 
 a:link {
