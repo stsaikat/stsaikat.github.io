@@ -1,0 +1,30 @@
+.body {
+	font-family: monospace;
+	
+}
+
+.nav-bar {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.nav-bar-ele {
+	float: right;
+}
+
+.big-box {
+	height: 1200px;
+	width: 100%;
+	float: left;
+}
+
+.right-bar {
+	position: fixed;
+	right: 0;
+	top: 200px;
+}
+
+a:link {
+	text-decoration: none;
+}
