@@ -1,4 +1,9 @@
-.body {
+html {
+	scroll-behavior: smooth;
+	
+}
+
+body {
 	font-family: monospace;
 	
 }
