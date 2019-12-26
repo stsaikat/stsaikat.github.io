@@ -1,0 +1,16 @@
+.name-text {
+	color: white;
+	font-size: 50px;
+}
+
+.dialogue-text {
+	color: white;
+	font-size: 30px;
+}
+
+.home-box {
+	background-image: url(../img/homebg.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
+}
