@@ -1,0 +1,25 @@
+.edu-box {
+	height: 1000px;
+}
+
+.edu-content {
+	width: 100%;
+	color: #575455;
+	text-align: center;
+	border: solid;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.school-name {
+	font-weight: bold;
+	color: #7a162c;
+	font-size: 30px;
+}
+
+.edu-title {
+	font-weight: bold;
+	color: black;
+	font-size: 15px;
+}
