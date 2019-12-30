@@ -5,11 +5,10 @@
 .edu-content {
 	width: 100%;
 	color: #575455;
-	text-align: center;
-	border: solid;
-	border-radius: 10px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	text-align: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 100px;
 }
 
 .school-name {
