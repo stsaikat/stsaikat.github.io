@@ -5,12 +5,8 @@
 }
 
 .con-ele {
-	margin-left: 15%;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	float: left;
-	width: 100%;
-	font-size: 20px;
+	text-align: center;
+	font-size: 30px;
 	font-weight: bold;
 }
 
