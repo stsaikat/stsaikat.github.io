@@ -30,11 +30,3 @@ body {
 	float: left;
 	margin-bottom: 500px;
 }
-
-.right-bar {
-	position: fixed;
-	right: 0;
-	top: 200px;
-	align-items: right;
-	text-align: right;
-}
